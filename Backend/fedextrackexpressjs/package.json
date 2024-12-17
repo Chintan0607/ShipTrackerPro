@@ -1,10 +1,12 @@
 {
   "name": "fedextrackexpressjs",
   "version": "1.0.0",
-  "description": "",
+  "description": "FedEx tracking API with Express.js",
   "main": "app.js",
   "scripts": {
-    "dev": "nodemon app"
+    "dev": "nodemon app",
+    "start": "node app",
+    "build": "echo 'Build step not required for Express server.'"
   },
   "keywords": [],
   "author": "",
